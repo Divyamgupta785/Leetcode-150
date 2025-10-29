@@ -1,4 +1,4 @@
-# Data-Structure-Algo
+# Leetcode Challange to 150 Questions
 A comprehensive collection of data structures and algorithms solved in Java . Ideal for coding interviews and competitive programming.
 
 Welcome to my DSA repository! This contains a collection of data structures and algorithms problems solved using Java 
